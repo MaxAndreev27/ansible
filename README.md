@@ -20,3 +20,16 @@ The repository is organized by chapters, following the logical progression of th
 ├── ch07-ansible-vault/            # Encrypting sensitive data, secrets, and passwords
 ├── ch08-complex-playbooks/        # Complex deployments, templates (Jinja2), and filters
 └── ch09-production-practices/     # Optimizing performance, parallelism, and troubleshooting
+```
+
+## 🤝 Community & Contributing
+
+Contributions are welcome! Please review the following guidelines before contributing:
+
+- [CONTRIBUTING.md](CONTRIBUTING.md) — Guidelines for reporting bugs and opening pull requests.
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Standards of behavior for participating in this project.
+- [SECURITY.md](SECURITY.md) — Security policy and vulnerability reporting.
+
+## 📄 License
+
+This repository is available under the MIT License. See [LICENSE](LICENSE) for the full text.
